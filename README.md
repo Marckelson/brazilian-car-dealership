@@ -1,3 +1,6 @@
+![Logo](https://www.novadrivemotors.com.br/logo.png)
+
+
 ### BRAZILIAN CAR DEALERSHIP
 
 #### **Project Overview: Nova Drive Brazilian Car Dealership**
@@ -39,26 +42,26 @@ The primary objective of this project is to implement a comprehensive data pipel
 - Set up PostgreSQL as the source database.
 - Implement ETL pipelines using Apache Airflow to load data into Snowflake.
 
-2. Data Transformation
+2. **Data Transformation**
 
-Use DBT to transform raw data into meaningful insights, ensuring data is accessible and useful for business users.
+- Use DBT to transform raw data into meaningful insights, ensuring data is accessible and useful for business users.
 
-3. Data Analytics and Reporting
+3. **Data Analytics and Reporting**
 
-Develop analytical reports and dashboards that provide insights into sales by dealership, vehicle, and salesperson, as well as temporal sales trends.
-Ensure data accuracy and consistency to build trust in the reporting system.
+- Develop analytical reports and dashboards that provide insights into sales by dealership, vehicle, and salesperson, as well as temporal sales trends.
+- Ensure data accuracy and consistency to build trust in the reporting system.
 
-4. User Access and Training
+4. **User Access and Training**
 
-Provide access to the analytical database and reporting tools to the sales management team.
-Conduct training sessions to help users navigate and utilize the new system effectively.
+- Provide access to the analytical database and reporting tools to the sales management team.
+- Conduct training sessions to help users navigate and utilize the new system effectively.
 
 #### **Expected Outcomes**
 
-Improved Data Accuracy: Reliable and consistent data that supports accurate reporting and decision-making.
-Enhanced Sales Insights: Detailed analysis of sales performance by dealership, vehicle, and salesperson.
-Temporal Analysis: Ability to track and analyze sales trends over time, aiding in strategic planning.
-Operational Efficiency: Streamlined data management processes reduce manual intervention and errors.
+- **Improved Data Accuracy:** Reliable and consistent data that supports accurate reporting and decision-making.
+- **Enhanced Sales Insights:** Detailed analysis of sales performance by dealership, vehicle, and salesperson.
+- **Temporal Analysis:** Ability to track and analyze sales trends over time, aiding in strategic planning.
+- **Operational Efficiency:** Streamlined data management processes reduce manual intervention and errors.
 
 #### **Conclusion**
 
